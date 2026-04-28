@@ -8,8 +8,8 @@ Este proyecto tiene como objetivo analizar el movimiento de estrellas (cinemáti
 Se consultó la base de datos astronómica SIMBAD para obtener las coordenadas precisas del objeto Omega Centauri (NGC 5139).
 
 ## Coordenadas (grados decimales)
-- Ascensión Recta (RA): 
-- Declinación (DEC): 
+- Ascensión Recta (RA): 201.697 
+- Declinación (DEC): -47.479
 
 ## Herramientas utilizadas
 - WSL (Linux)
